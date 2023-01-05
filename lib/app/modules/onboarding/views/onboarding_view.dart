@@ -80,7 +80,7 @@ class OnboardingView extends GetView<OnboardingController> {
                   child: ElevatedButton(
                       onPressed: () {
                         //controller.forwardAction();
-                        Get.to(OnboardingView2());
+                        Get.toNamed(Routes.ONBOARDING2);
                       },
                       style: elevatedButtonStyle,
                       child: Text(

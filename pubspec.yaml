@@ -12,6 +12,9 @@ dependencies:
     sdk: flutter
   smooth_page_indicator: 
   page_transition: 
+  intl_phone_number_input: 
+  pin_code_fields: ^7.4.0
+  otp_autofill: 
 
 dev_dependencies: 
   flutter_lints: 2.0.1
